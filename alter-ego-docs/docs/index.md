@@ -12,5 +12,3 @@ by providing a number of essential features for worldbuilding and management, in
 * Item and Object Creation
 * Inventory Management
 * Navigation
-
-In addition, Alter Ego features 

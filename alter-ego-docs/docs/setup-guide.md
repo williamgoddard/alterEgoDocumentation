@@ -123,7 +123,7 @@ There are four types of inventory you can select. These are:
 * **Room Items** - The items currently in a room. You can select a room's inventory with `/room items`.
 * **Character Items** - The items a character is holding. You can select a character's inventory with `/character items`.
 * **Character Clothes** - The clothes a character is wearing. You can select a character's clothes inventory with `/character clothes`.
-* **Storage** - An extra inventory which comes with your roleplay. This is useful for storing items you currently don't want to put anywhere. You can select your roleplay's storage inventory with `/item storage`.
+* **Storage** - An extra inventory, not linked to any character or room. This is useful for storing items you currently don't want to put anywhere. You can select your roleplay's storage inventory with `/item storage`.
 
 Once you have selected an inventory, that inventory will remain selected until you select a different inventory. This
 means you can keep creating multiple items in the same inventory without needing to reselect it.
