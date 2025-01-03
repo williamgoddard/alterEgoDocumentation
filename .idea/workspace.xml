@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e387d86f-81e4-4405-b543-0dc624e8e323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/alter-ego-docs/docs/img/Alter Ego Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alter-ego-docs/docs/img/Banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alter-ego-docs/docs/setup-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alter-ego-docs/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alter-ego-docs/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
