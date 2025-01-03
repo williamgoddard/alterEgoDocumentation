@@ -117,7 +117,7 @@ character if you need to change anything:
 Items represent things which characters can find, take, hold and sometimes wear. They can be used to enrich your
 setting, and increase the immersion and interactiveness or your roleplay.
 
-Before you create an item, you will need to select which inventory you would like to create the inventory in.
+Before you create an item, you will need to select which inventory you would like to create the item in.
 There are four types of inventory you can select. These are:
 
 * **Room Items** - The items currently in a room. You can select a room's inventory with `/room items`.
