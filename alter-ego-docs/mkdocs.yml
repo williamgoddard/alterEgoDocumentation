@@ -1,0 +1,5 @@
+site_name: Alter Ego Discord RP Bot - Documentation
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
