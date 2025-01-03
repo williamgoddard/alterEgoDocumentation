@@ -1,5 +1,9 @@
-site_name: Alter Ego Discord RP Bot - Documentation
+site_name: Alter Ego Roleplay Bot
 nav:
   - Home: index.md
-  - About: about.md
-theme: readthedocs
+  - Setup Guide: setup-guide.md
+theme:
+  name: material
+  palette:
+    scheme: slate
+  logo: img/Alter Ego Logo.png
