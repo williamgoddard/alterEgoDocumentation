@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e387d86f-81e4-4405-b543-0dc624e8e323" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/alter-ego-docs/docs/privacy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alter-ego-docs/docs/tos.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alter-ego-docs/docs/setup-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/docs/setup-guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alter-ego-docs/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alter-ego-docs/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/mkdocs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alter-ego-docs/site/search/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/site/search/search_index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alter-ego-docs/site/setup-guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/site/setup-guide/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alter-ego-docs/site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alter-ego-docs/site/sitemap.xml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/alter-ego-docs/site/sitemap.xml.gz" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/William/Dropbox/Stuff/Repos/alterEgoDocumentation/alter-ego-docs/docs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/William/Dropbox/Stuff/Repos/alterEgoDocumentation/alter-ego-docs/docs/img"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\William\Dropbox\Stuff\Repos\alterEgoDocumentation\alter-ego-docs\docs" />
       <recent name="C:\Users\William\Dropbox\Stuff\Repos\alterEgoDocumentation\alter-ego-docs\docs\img" />
+      <recent name="C:\Users\William\Dropbox\Stuff\Repos\alterEgoDocumentation\alter-ego-docs\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\William\Dropbox\Stuff\Repos\alterEgoDocumentation\alter-ego-docs\docs" />
       <recent name="C:\Users\William\Dropbox\Stuff\Repos\alterEgoDocumentation\alter-ego-docs\docs\img" />
     </key>
   </component>

@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://williamgoddard.github.io/alterEgoDocumentation/</loc>
-         <lastmod>2025-01-03</lastmod>
+         <lastmod>2025-01-05</lastmod>
+    </url>
+    <url>
+         <loc>https://williamgoddard.github.io/alterEgoDocumentation/privacy/</loc>
+         <lastmod>2025-01-05</lastmod>
     </url>
     <url>
          <loc>https://williamgoddard.github.io/alterEgoDocumentation/setup-guide/</loc>
-         <lastmod>2025-01-03</lastmod>
+         <lastmod>2025-01-05</lastmod>
+    </url>
+    <url>
+         <loc>https://williamgoddard.github.io/alterEgoDocumentation/tos/</loc>
+         <lastmod>2025-01-05</lastmod>
     </url>
 </urlset>

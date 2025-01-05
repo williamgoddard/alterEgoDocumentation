@@ -1,10 +1,21 @@
 site_name: Alter Ego Roleplay Bot
 nav:
   - Home: index.md
-  - Setup Guide: setup-guide.md
+  - Admin Guides:
+      - Setup Guide: setup-guide.md
+  - Other:
+      - Terms of Service: tos.md
+      - Privacy Policy: privacy.md
 theme:
+  favicon: img/favicon.ico
   name: material
   palette:
     scheme: slate
   logo: img/Alter Ego Logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
 site_url: https://williamgoddard.github.io/alterEgoDocumentation
